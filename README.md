@@ -27,7 +27,7 @@ Install jmock using pip
 ## Usage/Examples
 - Import the necessary modules:
 ```python
-import jmock
+import jmock as jm
 ```
 - Load your environment variables:
 ```python
