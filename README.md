@@ -73,5 +73,5 @@ print(result)
   # ... 4 more unique objects]
   ```
 ## Related
-[How to generate gemini API key](https://github.com/matiassingers/awesome-readme)
+[How to generate gemini API key](https://www.geminiforwork.com/setup-api-keys/create-geminiai-api-key/)
 
