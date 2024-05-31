@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.4' 
+VERSION = '0.0.5' 
 DESCRIPTION = "Joe's Synthetic Data Generator"
 LONG_DESCRIPTION = "AI Package to generate synthetic data using Google's gemini AI"
 REQUIRED_PACKAGES = [
@@ -17,5 +17,5 @@ setup(
         long_description=LONG_DESCRIPTION,
         packages=find_packages(),
         install_requires=REQUIRED_PACKAGES,
-        keywords=['python', 'JSDG'],
+        keywords=['python', 'jmock','synthetic data generator','mock data'],
 )
