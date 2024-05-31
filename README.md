@@ -73,5 +73,6 @@ print(result)
   # ... 4 more unique objects]
   ```
 ## Related
+[Introducing jmock: Generate Synthetic Data with the Power of AI](https://medium.com/@jose4.peter42/introducing-jmock-generate-synthetic-data-with-the-power-of-ai-682e0b85bee1)
 [How to generate gemini API key](https://www.geminiforwork.com/setup-api-keys/create-geminiai-api-key/)
 
